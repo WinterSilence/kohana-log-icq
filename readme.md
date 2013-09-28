@@ -2,7 +2,7 @@
 
 Module for sending log messages in site admin ICQ.
 
-To enable, open your `application/bootstrap.php` file and modify the call to [Kohana::modules] by including the gravatar module like so:
+To enable, open your `application/bootstrap.php` file and modify the call to [Kohana::modules] by including the log ICQ module like so:
 ~~~
 Kohana::modules(array(
 	...
